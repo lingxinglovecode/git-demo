@@ -1,4 +1,5 @@
 hello
+nihao
 insert whatever
 insert hello2
 master changed
